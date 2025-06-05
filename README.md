@@ -18,20 +18,16 @@
 
 ---
 ## 🛠 Мой стек
-- **Язык & Фреймворки**  
-  - Go  
-  - Gin  
-- **Контейнеризация**  
-  - Docker  
-- **Базы данных**  
-  - PostgreSQL   
-- **Очереди**  
-  - Kafka  
-- **Тестирование**  
-  - Testify  
-- **Мониторинг & Метрики**  
-  - Prometheus  
-  - Grafana  
+<p align="left">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Gin" src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img alt="Testify" src="https://img.shields.io/badge/Testify-000000?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522D?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+</p>
 ---
 
 ## 📫 Контакты
@@ -46,11 +42,10 @@
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ApostolPac&theme=dark)
 
 ---
+
 ## 📈 Моя активность на GitHub
 
-![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolPac&layout=compact&theme=dark)
-
-![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolPac&layout=compact&theme=dark&langs_count=true)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ApostolPac&theme=react-dark)
 
 ---
 
