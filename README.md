@@ -14,7 +14,7 @@
 
 | 🔥 Проект                         | 📝 Описание                                   | 🚀 Технологии                                       |
 |-----------------------------------|-----------------------------------------------|-----------------------------------------------------|
-| **PollFroge**                     | Платформа для опросов                         | Go, Docker, React, PostgreSQL, Kafka, Grafana, Prometheus |
+| [PollFroge](https://github.com/DurkaVerder/PollForge)                    | Платформа для опросов                         | Go, Docker, React, PostgreSQL, Kafka, Grafana, Prometheus |
 
 ---
 ## 🛠 Мой стек
@@ -42,7 +42,15 @@
 
 ## 📊 Статистика профиля
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApostolPac&show_icons=true&theme=default)
+![ApostolPac’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApostolPac&show_icons=true&count_private=true&theme=dark)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ApostolPac&theme=dark)
+
+---
+## 📈 Моя активность на GitHub
+
+![Top Languages by Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolPac&layout=compact&theme=dark)
+
+![Top Languages by Commit](https://github-readme-stats.vercel.app/api/top-langs/?username=ApostolPac&layout=compact&theme=dark&langs_count=true)
 
 ---
 
