@@ -28,7 +28,6 @@
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522D?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
----
 
 ## 📫 Контакты
 - 📩 **Telegram:** [https://t.me/Rand_pash](https://t.me/Rand_pash)  
@@ -43,11 +42,6 @@
 
 ---
 
-## 📈 Моя активность на GitHub
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=ApostolPac&theme=react-dark)
-
----
 
 ## 🏆 GitHub Trophy
 
