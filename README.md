@@ -1,16 +1,53 @@
-## Hi there 👋
+ **Дороу! Я Семихин Павел 😎**
 
-<!--
-**ApostolPac/ApostolPac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## О себе
+- 💻 **Backend-разработчик на Go**  
+- 🎓 Студент направления «Информационные системы и технологии» (Бакалавриат)  
+- 🐳 Работаю с Docker, PostgreSQL, Kafka и тп.   
+- 🔧 Разрабатываю микросервисные приложения  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Мои проекты
+
+| 🔥 Проект                         | 📝 Описание                                   | 🚀 Технологии                                       |
+|-----------------------------------|-----------------------------------------------|-----------------------------------------------------|
+| **PollFroge**                     | Платформа для опросов                         | Go, Docker, React, PostgreSQL, Kafka, Grafana, Prometheus |
+
+---
+## 🛠 Мой стек
+- **Язык & Фреймворки**  
+  - Go  
+  - Gin  
+- **Контейнеризация**  
+  - Docker  
+- **Базы данных**  
+  - PostgreSQL   
+- **Очереди**  
+  - Kafka  
+- **Тестирование**  
+  - Testify  
+- **Мониторинг & Метрики**  
+  - Prometheus  
+  - Grafana  
+---
+
+## 📫 Контакты
+- 📩 **Telegram:** [https://t.me/Rand_pash](https://t.me/Rand_pash)  
+- 📧 **Email:** pasha2005plovec@yahoo.com
+
+---
+
+## 📊 Статистика профиля
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApostolPac&show_icons=true&theme=default)
+
+---
+
+## 🏆 GitHub Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ApostolPac&layout=compact&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
