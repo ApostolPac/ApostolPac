@@ -18,7 +18,7 @@
 
 ---
 ## 🛠 Мой стек
-<p align="left">
+<p align="center">
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img alt="Gin" src="https://img.shields.io/badge/Gin-000000?style=for-the-badge&logo=gin&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
